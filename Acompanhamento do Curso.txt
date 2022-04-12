@@ -1,0 +1,234 @@
+**** Ambientes
+
+  > Node: 8.9.1 (https://nodejs.org/en/)
+  > Visual Studio Code (https://code.visualstudio.com/)
+     - Plugin: Code Runner  >>>> Tecla de Atalho (Ctrl + Alt + n) 
+
+
+
+>>> Seção 1: Introdução Curso Web > 1. Visão Geral do Curso Web (28/10/2019)
+
+ - Visão geral do que o curso vai abranger
+
+
+>>> Seção 1: Introdução Curso Web > 2. Repositório do Curso (28/10/2019)
+
+ - Todos os exercícios e projetos estão em... https://github.com/cod3rcursos/web-moderno
+
+
+>>> Seção 1: Introdução Curso Web > 3. Importância dos Fundamentos (28/10/2019)
+
+ - Mostrando a importancia dos fundamentos e motivando ao curso
+
+
+>>> Seção 1: Introdução Curso Web > 4. Por que aprender Javascript? (28/10/2019)
+
+ - Comentou a importancia do JavaScript, e que hoje está presente no back / front, super necessitamos
+
+
+>>> Seção 2: Configuração do Ambiente > 5. Instalação Node (Windows/Mac) - Curso Web (25/11/2019)
+
+ - Mostrando a instalação do Node/NPM, para windows e mac, 8.9.1 a versão que ele instalou
+
+
+>>> Seção 2: Configuração do Ambiente > 6. Configuração do Editor (VSCode) - Curso Web (25/11/2019)
+
+ - Mostrando a instalação do Visual Code Studio mac
+ - comando 'code', 'code fonte.js'
+ - Plugin: Code Runner  >>>> Tecla de Atalho (Ctrl + Alt + n) 
+
+
+>>> Seção 2: Configuração do Ambiente > 7. Configuração do Comando 'code' - Curso Web (25/11/2019)
+
+ - Nem sempre o comando >>> comando 'code', 'code fonte.js', está disponível;
+ - No Visual Studio Code: >code: Shell Command Install 'code' command in PATH
+ 
+
+>>> Seção 2: Configuração do Ambiente > 8. Configuração do Editor (VSCode) Windows - Curso Web (25/11/2019)
+
+ - Mostrando a instalação do Visual Code Studio windows
+ - https://code.visualstudio.com/
+
+
+>>> Seção 3: Java Script: Fundamentos > 9. Visão Geral de Algoritomos (25/11/2019)
+
+ - Falando de conceito de algoritmos independente de linguagem
+ - Introdução para lógica de programação e estrutura de dados
+
+
+>>> Seção 3: Java Script: Fundamentos > 10. Visão Geral de de Estrutura de Dados (29/11/2019)
+
+ - Falando de conceito de estrutura de dados;
+
+
+>>> Seção 3: Java Script: Fundamentos > 11. Configuração do Projeto (29/11/2019)
+
+ - Repositório do código;
+    - Organização dos arquivos;
+	- Pasta Projeto > fundamentos > organizacao.js
+
+	
+>>> Seção 3: Java Script: Fundamentos > 12. Organização Básica de um Código JS (29/11/2019)
+
+ - Linguagem organizada em linha/sentença de código;
+ - Java script então é orgnizado em sentença de código que pode ou não terminar em ponto-e-virgula 
+
+
+>>> Seção 3: Java Script: Fundamentos > 13. Executando Javascript (02/12/2019)
+
+ - https://repl.it/
+ - https://jsfiddle.net/
+ - VSCode >>> Code Runner (Plugin)
+
+ 
+ 
+>>> Seção 3: Java Script: Fundamentos > 14. Comentários de Código (02/12/2019 e 04/12/2019) 
+
+ - Criado o arquivo comentario.js;
+ - Mostrou exemplos de comentarios e disse que o importante é o codigo limpo, mas em algumas ocasião vai ser necessário de comentários;
+
+
+>>> Seção 3: Java Script: Fundamentos > 15. O Básico de VAR, LET e CONST (04/12/2019) 
+
+ - Criado o arquivo variaveisEConstantes.js; 
+ - Exemplos de var / let / const;
+
+
+>>> Seção 3: Java Script: Fundamentos > 16. Tipagem Fraca (06/12/2019) 
+
+ - Criado o arquivo tipagemFraca.js; 
+ - console.log(typeof qualquer)
+ 
+ 
+>> Seção 3: Java Script: Fundamentos > 17. Tipos em JavaScript: Number (06/12/2019) 
+
+ - Criado o arquivo numero.js;  
+ - Number()
+
+
+>> Seção 3: Java Script: Fundamentos > 18. Number: Alguns Cuidados (06/12/2019) 
+
+ - Criado o arquivo numeroAlgunsCuidados.js;  
+
+
+>> Seção 3: Java Script: Fundamentos > 19. Usando Math (06/12/2019) 
+
+ - Criado o arquivo math.js;  
+ 
+ 
+>> Seção 3: Java Script: Fundamentos > 20. Tipos em JavaScript: String (06/12/2019) 
+
+ - Criado o arquivo strings.js;   
+ 
+ 
+>> Seção 3: Java Script: Fundamentos > 21. Usando Templates Strings (06/12/2019) 
+
+ - Criado o arquivo templateString.js;    
+ 
+
+>> Seção 3: Java Script: Fundamentos > 22. Tipos em JavaScript: Boolean (06/12/2019) 
+
+ - Criado o arquivo booleanos.js;    
+ 
+ 
+>> Seção 3: Java Script: Fundamentos > 23. Tipos em JavaScript: Array (09/12/2019) 
+
+ - Criado o arquivo arrays.js;     
+ 
+ 
+>> Seção 3: Java Script: Fundamentos > 24. Tipos em JavaScript: Object (09/12/2019) 
+
+ - Criado o arquivo objeto.js;     
+ 
+ 
+>> Seção 3: Java Script: Fundamentos > 25. Entendendo o Null & Indefined (09/12/2019) 
+
+ - Atribuição por Valor (a variavel recebe o valor, cada um aponto referencia diferente)
+ - Atribuição por Referência (duas variaveis aponto pra mesma referencia)
+ - Criado o arquivo nullUndefined.js;
+ 
+ 
+>> Seção 3: Java Script: Fundamentos > 26. Quase Tudo é Função!!! (09/12/2019) 
+
+ - Criado o arquivo funcaoEmQuaseTudo.js; 
+ 
+ 
+>> Seção 3: Java Script: Fundamentos > 27. Exemplos Básicos de Funções #01 (10/12/2019) 
+
+ - Criado o arquivo funcao1.js;  
+ 
+ 
+>> Seção 3: Java Script: Fundamentos > 28. Exemplos Básicos de Funções #02 (10/12/2019) 
+
+ - Criado o arquivo funcao2.js;   
+
+
+>> Seção 3: Java Script: Fundamentos > 29. Declaração de Variáveis com Var #01 (11/12/2019) 
+
+ - Criado o arquivo usandoVar1.js;    
+ 
+
+> Seção 3: Java Script: Fundamentos > 30. Declaração de Variáveis com Var #02 (11/12/2019) 
+
+ - Criado o arquivo usandoVar2.js;     
+ 
+ 
+> Seção 3: Java Script: Fundamentos > 31. Declaração de Variáveis Com Let (11/12/2019) 
+
+ - Criado o arquivo usandoLet.js;     
+ 
+ 
+> Seção 3: Java Script: Fundamentos > 32. Usando Var em Loop #01 (11/12/2019) 
+
+ - Criado o arquivo usandoVarEmLoop1.js;      
+ 
+ 
+----------------------------------------------------------------------------------- Entrou mais aulas (17/10/2021 - texto antes) 
+ 
+SECAO 3 - NOVO - INICIANDO COM A PROGRAMACAO 
+ 
+   - Introdução do Módulo 
+   - Conhecendo o Visual Studio Code
+   - Sentença de Código #01
+   - Sentença de Código #02
+   - Comentários de Código
+   - Bloco de Código
+   - Desafio Sentença e Bloco
+   - Desafio Sentença e Bloco - Resposta
+   - Trabalhando com Dados #01
+   - Trabalhando com Dados #02 (23/12/2021)
+   - Trabalhando com Dados #03 (23/12/2021)   
+   - Trabalhando com Dados #04 (23/12/2021)      
+   - Desafio Área da Circunferência (23/12/2021)       
+   - Desafio Área da Circunferência - Resposta (29/12/2021)          
+   - Desafio Troca de Valores (29/12/2021)
+   - Desafio Troca de Valores - Resposta (29/12/2021)
+   
+   
+SECAO 4 - FUNDAMENTOS
+   
+   - Visão Geral de Algoritimos (04/04/2022)
+   - Visão Geral de Estrutura de Dados (11/04/2022)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
