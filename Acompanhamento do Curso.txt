@@ -209,7 +209,11 @@ SECAO 4 - FUNDAMENTOS
    
    - Visão Geral de Algoritimos (04/04/2022)
    - Visão Geral de Estrutura de Dados (11/04/2022)
- 
+   - Lembrem-se de sempre gravar o código! (11/04/2022)
+   - Configuração do projeto (11/04/2022)
+   - Organização Básica de um Código JS (11/04/2022)
+   - Executando JavaScript (11/04/2022)   
+   - Comentários de Código (11/04/2022)
  
  
  
