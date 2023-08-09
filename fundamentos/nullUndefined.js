@@ -20,3 +20,7 @@ console.log(produto)
 produto.preco = null // sem preço
 console.log(!!produto.preco)
 console.log(produto)
+
+
+
+// Conceito atribuíção por referencia (sentido objeto) e atribuíção por valor (sentido primitivo)

@@ -222,8 +222,37 @@ SECAO 4 - FUNDAMENTOS
    - Tipos em JavaScript: String (11/01/2023)
    - Usando Template String (11/01/2023)
    - Tipos em JavaScript: Boolean (11/01/2023)
- 
- 
+   - Tipos em JavaScript: Array (01/08/2023) 
+   - Tipos em JavaScript: Object (01/08/2023)
+   - Entendendo o Null & Undefined (01/08/2023)
+   - Quase Tudo é Função(01/08/2023)
+   - Exemplos Básicos de Funções #01 (01/08/2023)
+   - Exemplos Básicos de Funções #02 (01/08/2023)
+   - Declaração de Variáveis Com Var #01 (01/08/2023)
+   - Declaração de Variáveis Com Var #02 (01/08/2023)
+   - Declaração de Variáveis Com Let (01/08/2023)
+   - Usando Var em Loop #01 (01/08/2023)
+   - Usando Let em Loop #01 (01/08/2023)
+   - Usando Var em Loop #02 (01/08/2023)
+   - Entendendo o Hoisting (01/08/2023)
+   - Função Vs Objeto (01/08/2023)
+   - Par Nome/Valor (01/08/2023)
+   - Notação Ponto (01/08/2023)
+   - Operadores: Atribuíção (01/08/2023)
+   - Operadores: Destructuring #01 (02/08/2023)
+   - Operadores: Destructuring #02 (02/08/2023)
+   - Operadores: Destructuring #03 (02/08/2023)
+   - Operadores: Destructuring #04 (02/08/2023)
+   - Operadores: Aritiméticos (02/08/2023)
+   - Operadores: Relacionais (02/08/2023)
+   - Operadores: Lógicos (09/08/2023)
+   - Operadores: Unários (09/08/2023)
+   - Operadores: Ternário (09/08/2023)
+   - Contexto de Execução: Browser vc Node (09/08/2023)
+   - Tratamento de Erro (Try/Catch/Throw) (09/08/2023)
+   - Recursos (09/08/2023)
+   
+   
  
  
  

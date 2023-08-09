@@ -17,4 +17,4 @@ function teste() {
 }
 
 teste()
-console.log(local)
+console.log(local) // Comentar essa linha para nao dar o erro, pois ela não está visivel globalmente
