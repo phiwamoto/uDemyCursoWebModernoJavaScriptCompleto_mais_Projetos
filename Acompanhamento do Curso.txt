@@ -287,12 +287,68 @@ SECAO 5 - ESTRUTURAS DE CONTROLE
    - Usando a Estrutura FOR/IN (10/08/2023)
    - Usando Break/Continue (10/08/2023)
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
+  
+ SECAO 6 - FUNÇÃO
+   - Cidadão de Primeira Linha (10/08/2023)
+   - Parâmetros e Retornos São Opcionais (10/08/2023)
+   - Parâmetros Variáveis (10/08/2023)
+   - Parâmetros Padrão (10/08/2023)
+   - "this" pode Variar (11/08/2023)
+   - "this" e a Função Bind #01 (11/08/2023)
+   - "this" e a Função Bind #02 (11/08/2023)
+   - Funções Arrow #01 (11/08/2023)
+   - Funções Arrow #02 (11/08/2023)
+   - Funções Arrow #03 (11/08/2023)
+   - Funções Anônimas (11/08/2023)
+   - Funções Callback #01 (11/08/2023)
+   - Funções Callback #02 (11/08/2023) 
+   - Funções Callback #03 (11/08/2023)
+   - Funções Construtoras (11/08/2023)
+   - Tipos de Declaração (11/08/2023)
+   - Contexto Léxico (11/08/2023)
+   - Closures (11/08/2023)
+   - Função Factory #01 (11/08/2023)
+   - Função Factory #02 (11/08/2023)
+   - Classe vs Função Factory (11/08/2023)
+   - Desafio Função Construtora (16/08/2023)
+   - IIFE (16/08/2023)
+   - Call & Apply (16/08/2023)
+   - Comparação entre string de números (16/08/2023)
+
+		E ai pessoal, hoje vou trazer um assunto interessante que acontece dentro do Javascript que é a comparação entre números em formato string.
+		Abaixo temos uma cadeia de string de números.  
+			const cadeia_de_strings = '1, 2, 3, 4, 5, 6, 7, 8, 9'
+		Se pegarmos alguns dos valores da cadeia de strings e fizermos a comparação entre nossas strings de número até o nove, ela mantem um comportamento normal. Como se estivéssemos comparando números.
+
+			'1' > '2'
+			//output : false
+			'1' > '1'
+			//output : false
+			'2' > '1'
+			//output : true
+			'4' > '2'
+			//output : true 
+		
+		Agora se compararmos os valores depois do nove, a comparação irá validar o primeiro número da cadeia numeral, validando sua ordem alfabética. Por exemplo:
+
+			'2' > '12'
+			//output : true
+			'5' > '42'
+			//output : true
+			'3' > '29'
+			//output : true		
+			
+		Com isso, podemos ver que não é uma abordagem muito boa comparar números em formato de string.
+		
+   
+   - Lista de exercícios: Fundamentos, Estruturas de controle e Funções (16/08/2023)
+
+
+ SECAO 7 - OBJETOS
+
+  - Introdução à OO (16/08/2023) 
+  - Revisão sobre Objeto (16/08/2023) 
+  - Estratégias de Criação de Objetos (16/08/2023)
+  - Objetos Constantes (16/08/2023)
+
+  
